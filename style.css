@@ -21,7 +21,7 @@
         }
 
         header.cover {
-            background: url(images/cover_overlay.png) no-repeat center/100% 100%,url(images/cover.jpg) no-repeat center/cover;
+            background: url(images/cover_overlay.webp) no-repeat center/100% 100%,url(images/cover.webp) no-repeat center/cover;
             height: 360px;
             position: relative;
         }
@@ -211,7 +211,7 @@
         /* PORTFOLIO */
         .portfolio-header {
             height: 90px;
-            background: url(images/header.jpg) no-repeat center/cover;
+            background: url(images/header.webp) no-repeat center/cover;
             position: relative;
         }
 
